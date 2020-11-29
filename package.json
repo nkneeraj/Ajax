@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create-react-app": "^4.0.1",
+    "prompt-sync": "^4.2.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
